@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Alert Dialogs</string>
+    <string name="simple_alert_dialog">Simple Alert Dialog</string>
+    <string name="custom_alert_dialog">Custom Alert Dialog - About</string>
+    <string name="custom_alert_dialog_feedback">Custom Alert Dialog - Feedback</string>
+    <string name="rate_app_dialog">Rate App Dialog</string>
+    <string name="about_app">This is an app to show the different ways to use an Alert Dialog. A dialog is a small window that prompts the user to make a decision or enter additional information. A dialog does not fill the screen and is normally used for modal events that require users to take an action before they can proceed. An alert dialog that can show a title, up to three buttons, a list of selectable items, or a custom layout.
+        \n\nThe AlertDialog class allows you to build a variety of dialog designs and is often the only dialog class you\'ll need. As shown in figure 2, there are three regions of an alert dialog:
+        \nTitle: This is optional and should be used only when the content area is occupied by a detailed message, a list, or custom layout. If you need to state a simple message or question (such as the dialog in figure 1), you don\'t need a title.
+        \nContent area: This can display a message, a list, or other custom layout.
+        \nAction buttons: There should be no more than three action buttons in a dialog.
+    </string>
+</resources>
